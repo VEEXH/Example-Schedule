@@ -1,2 +1,2 @@
 # Example-Schedule
-Example of a schedule designed in HTL &amp; CSS
+Example of a schedule designed in **HTML &amp; CSS**
